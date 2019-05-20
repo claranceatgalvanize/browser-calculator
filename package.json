@@ -1,0 +1,23 @@
+{
+    "name": "browser-calculator",
+    "version": "1.0.0",
+    "description": "browser-calculator-test",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha || true"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/claranceatgalvanize/browser-calculator.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/claranceatgalvanize/browser-calculator/issues"
+    },
+    "homepage": "https://github.com/claranceatgalvanize/browser-calculator#readme",
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^6.1.4"
+    }
+}
